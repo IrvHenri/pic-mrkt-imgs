@@ -96,41 +96,6 @@
         "isFavorite": false,
         "price": "4.99",
         "title":"The Door"
-    },
-    {
-        "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic15.jpg?raw=true",
-        "id": "15",
-        "isFavorite": false,
-        "price": "2.99",
-        "title":"Lightbulb"
-    },
-    {
-        "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic16.jpg?raw=true",
-        "id": "16",
-        "isFavorite": false,
-        "price": "4.99",
-        "title":"Citrus"
-    },
-    {
-        "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic17.jpg?raw=true",
-        "id": "17",
-        "isFavorite": false,
-        "price": "2.99",
-        "title":"Forest"
-    },
-    {
-        "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic18.jpg?raw=true",
-        "id": "18",
-        "isFavorite": false,
-        "price": "2.99",
-        "title":"Cup of Joe"
-    },
-    {
-        "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic19.jpg?raw=true",
-        "id": "19",
-        "isFavorite": false,
-        "price": "4.99",
-        "title":"To Factory"
     }
-   
+    
 ]
