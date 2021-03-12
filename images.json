@@ -2,97 +2,116 @@
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic1.jpg",
         "id": "1",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "2.99"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic2.jpg",
         "id": "2",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "4.99
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic3.jpg",
         "id": "3",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "2.99"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic4.jpg",
         "id": "4",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "2.99"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic5.jpg?raw=true",
         "id": "5",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "4.99
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic6.jpg",
         "id": "6",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "4.99
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic7.jpg",
         "id": "7",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "2.99"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic8.jpg",
         "id": "8",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "4.99
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic9.jpg",
         "id": "9",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "2.99"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic10.jpg",
         "id": "10",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "2.99"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic11.jpg",
         "id": "11",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "4.99
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic12.jpg?raw=true",
         "id": "12",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "4.99
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic13.jpg?raw=true",
         "id": "13",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "4.99
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic14.jpg?raw=true",
         "id": "14",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "4.99
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic15.jpg?raw=true",
         "id": "15",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "2.99"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic16.jpg?raw=true",
         "id": "16",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "4.99
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic17.jpg?raw=true",
         "id": "17",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "2.99"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic18.jpg?raw=true",
         "id": "18",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "2.99"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic19.jpg?raw=true",
         "id": "19",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "4.99"
     }
    
 ]
