@@ -3,115 +3,134 @@
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic1.jpg",
         "id": "1",
         "isFavorite": false,
-        "price": "2.99"
+        "price": "2.99",
+        "title":"Smoke"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic2.jpg",
         "id": "2",
         "isFavorite": false,
-        "price": "4.99"
+        "price": "4.99",
+        "title":"Greaser"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic3.jpg",
         "id": "3",
         "isFavorite": false,
-        "price": "2.99"
+        "price": "2.99",
+        "title":"Focus"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic4.jpg",
         "id": "4",
         "isFavorite": false,
-        "price": "2.99"
+        "price": "2.99",
+        "title":"Seaside"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic5.jpg?raw=true",
         "id": "5",
         "isFavorite": false,
-        "price": "4.99"
+        "price": "4.99",
+        "title":"Dark Camera"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic6.jpg",
         "id": "6",
         "isFavorite": false,
-        "price": "4.99"
+        "price": "4.99",
+        "title":"Thank You"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic7.jpg",
         "id": "7",
         "isFavorite": false,
-        "price": "2.99"
+        "price": "2.99",
+        "title":"Going Bananas"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic8.jpg",
         "id": "8",
         "isFavorite": false,
-        "price": "4.99"
+        "price": "4.99",
+        "title":"Matrix"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic9.jpg",
         "id": "9",
         "isFavorite": false,
-        "price": "2.99"
+        "price": "2.99",
+        "title":"Autumn Sky"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic10.jpg",
         "id": "10",
         "isFavorite": false,
-        "price": "2.99"
+        "price": "2.99",
+        "title":"Hope"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic11.jpg",
         "id": "11",
         "isFavorite": false,
-        "price": "4.99"
+        "price": "4.99",
+        "title":"Mountain View"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic12.jpg?raw=true",
         "id": "12",
         "isFavorite": false,
-        "price": "4.99"
+        "price": "4.99",
+        "title":"City"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic13.jpg?raw=true",
         "id": "13",
         "isFavorite": false,
-        "price": "4.99"
+        "price": "4.99",
+        "title":"Old School typing"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic14.jpg?raw=true",
         "id": "14",
         "isFavorite": false,
-        "price": "4.99"
+        "price": "4.99",
+        "title":"The Door"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic15.jpg?raw=true",
         "id": "15",
         "isFavorite": false,
-        "price": "2.99"
+        "price": "2.99",
+        "title":"Lightbulb"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic16.jpg?raw=true",
         "id": "16",
         "isFavorite": false,
-        "price": "4.99"
+        "price": "4.99",
+        "title":"Citrus"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic17.jpg?raw=true",
         "id": "17",
         "isFavorite": false,
-        "price": "2.99"
+        "price": "2.99",
+        "title":"Forest"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic18.jpg?raw=true",
         "id": "18",
         "isFavorite": false,
-        "price": "2.99"
+        "price": "2.99",
+        "title":"Cup of Joe"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic19.jpg?raw=true",
         "id": "19",
         "isFavorite": false,
-        "price": "4.99"
+        "price": "4.99",
+        "title":"To Factory"
     }
    
 ]
