@@ -4,98 +4,112 @@
         "id": "1",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Smoke"
+        "title":"Smoke",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic2.jpg",
         "id": "2",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Greaser"
+        "title":"Greaser",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic3.jpg",
         "id": "3",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Focus"
+        "title":"Focus",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic4.jpg",
         "id": "4",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Seaside"
+        "title":"Seaside",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic5.jpg?raw=true",
         "id": "5",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Dark Camera"
+        "title":"Dark Camera",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic6.jpg",
         "id": "6",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Thank You"
+        "title":"Thank You",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic7.jpg",
         "id": "7",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Going Bananas"
+        "title":"Going Bananas",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic8.jpg",
         "id": "8",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Matrix"
+        "title":"Matrix",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic9.jpg",
         "id": "9",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Autumn Sky"
+        "title":"Autumn Sky",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic10.jpg",
         "id": "10",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Hope"
+        "title":"Hope",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic11.jpg",
         "id": "11",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Mountain View"
+        "title":"Mountain View",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic12.jpg?raw=true",
         "id": "12",
         "isFavorite": false,
         "price": "4.99",
-        "title":"City"
+        "title":"City",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic13.jpg?raw=true",
         "id": "13",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Old School typing"
+        "title":"Old School typing",
+        "artist": "Robert Smith"
     },
     {
         "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic14.jpg?raw=true",
         "id": "14",
         "isFavorite": false,
         "price": "4.99",
-        "title":"The Door"
+        "title":"The Door",
+        "artist": "Robert Smith"
     }
    
 ]
