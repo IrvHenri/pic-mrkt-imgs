@@ -1,114 +1,114 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic1.jpg",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic1.jpg",
         "id": "1",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Smoke",
+        "title":"The Bears",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic2.jpg",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic2.jpg",
         "id": "2",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Greaser",
+        "title":"Skies",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic3.jpg",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic3.jpg",
         "id": "3",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Focus",
+        "title":"Stars",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic4.jpg",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic4.jpg",
         "id": "4",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Seaside",
+        "title":"Bikes",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic5.jpg?raw=true",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic5.jpg",
         "id": "5",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Dark Camera",
+        "title":"Birds",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic6.jpg",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic6.jpg",
         "id": "6",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Thank You",
+        "title":"Astray",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic7.jpg",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic7.jpg",
         "id": "7",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Going Bananas",
+        "title":"Up",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic8.jpg",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic8.jpg",
         "id": "8",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Matrix",
+        "title":"New Kicks",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic9.jpg",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic9.jpg",
         "id": "9",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Autumn Sky",
+        "title":"NYC",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic10.jpg",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic10.jpg",
         "id": "10",
         "isFavorite": false,
         "price": "2.99",
-        "title":"Hope",
+        "title":"Dry",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://raw.githubusercontent.com/IrvHenri/pic-mrkt-imgs/main/pic11.jpg",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic11.jpg",
         "id": "11",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Mountain View",
+        "title":"Look",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic12.jpg?raw=true",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic12.jpg",
         "id": "12",
         "isFavorite": false,
         "price": "4.99",
-        "title":"City",
+        "title":"Station",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic13.jpg?raw=true",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic13.jpg",
         "id": "13",
         "isFavorite": false,
         "price": "4.99",
-        "title":"Old School typing",
+        "title":"Sunset",
         "artist": "RobertSmith"
     },
     {
-        "url": "https://github.com/IrvHenri/pic-mrkt-imgs/blob/main/pic14.jpg?raw=true",
+        "url": "https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/pic14.jpg",
         "id": "14",
         "isFavorite": false,
         "price": "4.99",
-        "title":"The Door",
+        "title":"Cool",
         "artist": "RobertSmith"
     }
    
